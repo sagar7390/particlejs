@@ -1,0 +1,40 @@
+
+*{
+    font-family: 'Charm', cursive;
+}
+ul{
+    margin: 0;
+    padding: 0;
+}
+ul li{
+    list-style: none;
+    height: 33.3vh;
+    width: 100vw;
+}
+#orange, #white , #green{
+    height: 100%;
+}
+#orange{
+    background-color: darkorange;
+}
+#white{
+    background-color: white;
+}
+#green{
+    background-color: green;
+}
+#white{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+h1{
+    font-size: 70px;
+}
+
+
+
+
+
+
+
